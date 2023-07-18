@@ -1,0 +1,4 @@
+Menu:
+  Gift-Take-Form:
+    Title: "Hediye => {player}"
+    Content: "§f{player} §7adlı oyuncu hediye gönderdi.\n\n§aEşya: §2§o{item}\n\n§r§aAdet: §2§o{count}\n\n§r§aNot: §2§o{note}"

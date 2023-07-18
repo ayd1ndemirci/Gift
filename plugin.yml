@@ -1,0 +1,9 @@
+name: Gift
+main: ayd1ndemirci\Gift\Main
+api: 5.0.0
+version: 1.0
+author: ayd1ndemirci
+
+permissions:
+  gift.command:
+    default: true
